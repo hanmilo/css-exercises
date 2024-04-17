@@ -1,0 +1,19 @@
+/* CSS stylesheet */
+.p-class {
+    background-color: lightpink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.samefontsize {
+    font-size: 24px;
+}
+
+#num-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
