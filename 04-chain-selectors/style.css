@@ -1,0 +1,16 @@
+/* CSS stylesheet */
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
+
+.original {
+    height: auto;
+    width: 400px;
+}
